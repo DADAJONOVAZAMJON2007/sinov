@@ -1,2 +1,2 @@
 # sinov
-Bu dockerni sinash uchun
+--Bu dockerni sinash uchun--
